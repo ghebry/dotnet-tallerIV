@@ -1,0 +1,7 @@
+C:\Users\Alumno\source\repos\TrabajoPractico02 - Calculadora\TrabajoPractico02 - Calculadora\bin\Debug\TrabajoPractico02 - Calculadora.exe.config
+C:\Users\Alumno\source\repos\TrabajoPractico02 - Calculadora\TrabajoPractico02 - Calculadora\bin\Debug\TrabajoPractico02 - Calculadora.exe
+C:\Users\Alumno\source\repos\TrabajoPractico02 - Calculadora\TrabajoPractico02 - Calculadora\bin\Debug\TrabajoPractico02 - Calculadora.pdb
+C:\Users\Alumno\source\repos\TrabajoPractico02 - Calculadora\TrabajoPractico02 - Calculadora\obj\Debug\TrabajoPractico02 - Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\TrabajoPractico02 - Calculadora\TrabajoPractico02 - Calculadora\obj\Debug\TrabajoPractico02 - Calculadora.exe
+C:\Users\Alumno\source\repos\TrabajoPractico02 - Calculadora\TrabajoPractico02 - Calculadora\obj\Debug\TrabajoPractico02 - Calculadora.pdb
+C:\Users\Alumno\source\repos\TrabajoPractico02 - Calculadora\TrabajoPractico02 - Calculadora\obj\Debug\TrabajoPractico02 - Calculadora.csprojResolveAssemblyReference.cache
