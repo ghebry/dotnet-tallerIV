@@ -1,0 +1,7 @@
+C:\Users\Alumno\source\repos\TrabajoPractico03 - Figuras\TrabajoPractico03 - Figuras\bin\Debug\TrabajoPractico03 - Figuras.exe.config
+C:\Users\Alumno\source\repos\TrabajoPractico03 - Figuras\TrabajoPractico03 - Figuras\bin\Debug\TrabajoPractico03 - Figuras.exe
+C:\Users\Alumno\source\repos\TrabajoPractico03 - Figuras\TrabajoPractico03 - Figuras\bin\Debug\TrabajoPractico03 - Figuras.pdb
+C:\Users\Alumno\source\repos\TrabajoPractico03 - Figuras\TrabajoPractico03 - Figuras\obj\Debug\TrabajoPractico03 - Figuras.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\source\repos\TrabajoPractico03 - Figuras\TrabajoPractico03 - Figuras\obj\Debug\TrabajoPractico03 - Figuras.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\TrabajoPractico03 - Figuras\TrabajoPractico03 - Figuras\obj\Debug\TrabajoPractico03 - Figuras.exe
+C:\Users\Alumno\source\repos\TrabajoPractico03 - Figuras\TrabajoPractico03 - Figuras\obj\Debug\TrabajoPractico03 - Figuras.pdb
